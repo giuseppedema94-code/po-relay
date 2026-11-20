@@ -1,4 +1,0 @@
-{
-  "regions": ["fra1"],
-  "functions": { "api/po.js": { "maxDuration": 60, "memory": 1024 } }
-}
